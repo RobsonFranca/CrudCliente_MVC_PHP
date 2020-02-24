@@ -1,4 +1,4 @@
 static/* linguist-vendored
 #*.php linguist-vendored=true
 #*.JavaScript linguist-vendored=false
-crud_cliente/public/* linguist-vendored
+public/* linguist-vendored
