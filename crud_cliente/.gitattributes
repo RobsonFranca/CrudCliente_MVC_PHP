@@ -1,2 +1,3 @@
-*.PHP linguist-vendored=true
+* linguist-vendored
+*.php linguist-vendored=true
 *.JavaScript linguist-vendored=false
